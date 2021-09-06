@@ -1,7 +1,7 @@
 # bootstrapping_model_misspecification
 Creating a bootsrap interval in order to test model correctness. Hypothesized model is exponential, data comes from gamma distribution.
 
-As shown in White (1982), we the s function
+As shown in White (1982), we the $s$ function
 
 $$
 s = A - B
